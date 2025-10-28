@@ -6,5 +6,5 @@ In this paper, we propose Dataset Distribution Identification (DDI), a novel fra
 
 The paper is now under review of ICDE'26 Round-2. 
 
-![DDI schema](./images/DDI-schema.pdf)
+![DDI schema](./images/DDI-schema.png)
 
